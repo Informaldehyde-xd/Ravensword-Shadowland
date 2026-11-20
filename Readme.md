@@ -15,18 +15,18 @@ Enjoy....
 ### Gallery
 
 <p align="center">
-  <img src="./preview/image1.png" alt="First view" width="100%"><br>
+  <img src="./preview/image1.jpg" alt="First view" width="100%"><br>
 </p>
 
 <p align="center">
-  <img src="./preview/image2.png" alt="Second view" width="80%"><br>
+  <img src="./preview/image2.jpg" alt="Second view" width="80%"><br>
 </p>
 <p align="center">
-  <img src="./preview/image3.png" alt="third view" width="80%"><br>
+  <img src="./preview/image3.jpg" alt="third view" width="80%"><br>
 </p>
 <p align="center">
-  <img src="./preview/image4.png" alt="fourth view" width="80%"><br>
+  <img src="./preview/image4.jpg" alt="fourth view" width="80%"><br>
 </p>
 <p align="center">
-  <img src="./preview/image5.png" alt="fifth view" width="80%"><br>
+  <img src="./preview/image5.jpg" alt="fifth view" width="80%"><br>
 </p>
